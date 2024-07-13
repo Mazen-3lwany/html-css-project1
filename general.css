@@ -1,0 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+.general-project{
+    display: flex;
+    flex-direction: column;
+}

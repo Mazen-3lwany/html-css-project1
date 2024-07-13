@@ -1,0 +1,127 @@
+.services-div{
+    display: flex;
+    flex-direction: column;
+   
+    
+
+}
+.services-head{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    
+}
+.word-ser{
+    font-size: 40px;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Open Saan",sans-serif;
+    margin-bottom: 0px;
+}
+.line1{
+    position: absolute;
+    left: 45%;
+    right: 50%;
+    bottom: -31px;
+    border: 2px solid #333;
+
+}
+.circle{
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid #333;
+  bottom: -38px;
+  background-color: white;
+}
+.line2{
+    position: absolute;
+    left: 50.6%;
+    right: 45%;
+    bottom: -31px;
+    border: 2px solid #333;
+
+}
+.para{
+    width: 80px;
+}
+.paragraph-head{
+    position: absolute;
+    bottom: -160px ;
+    left: 33%;
+    right: 33%;
+    color: #777;
+    line-height: 2;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+.serv-1row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 0px;
+    
+}
+.serv-2row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.serv-1element{
+    display: flex;
+    flex-direction: row;
+    margin-top: 250px;
+    
+}
+.serv-2element{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+.serv-icon{
+    width: 70px;
+    position: absolute;
+   
+    
+}
+.computer-icon{
+    width: 100%;
+    border-radius: 50%;
+   
+}
+.general-services-div{
+    display: flex;
+    flex-direction: column;
+}
+.text-des-icon{
+    width: 420px;
+    margin-left: 100px;
+}
+.head-des{
+    color: rgb(25, 200, 250);
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 650;
+   
+}
+.main-des{
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: #777;
+}
+.camera-icon{ 
+    
+    width: 100%;
+    border-radius: 25%;
+
+}
+

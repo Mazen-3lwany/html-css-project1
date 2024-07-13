@@ -1,0 +1,178 @@
+.email-input{
+    width: 1500px;
+    height: 350px;
+    margin-top:120px ;
+}
+.image-div-earth{
+    width: 1500px;
+    height: 300px;
+    position: relative;
+}
+.earth{
+    width: 100%;
+    height: 100%;
+    
+    object-fit: cover;
+
+}
+
+.search-par{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    padding: 10px 30px 10px 50px;
+    background-color: rgba(0, 0,0, 0);
+    color: #cccc;
+    border: 1px solid white;
+}
+.email-img{
+    position: absolute;
+    top: 42%;
+    left: 11%;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: white;
+}
+.subsub{
+    padding: 12px 20px 8px 20px;
+    background-color: #19c8fa;
+    color: white;
+    text-transform: uppercase;
+    border: 1px solid white;
+    position: absolute;
+    top: 40%;
+    left: 25.7%;
+
+}
+.text-ear{
+    position: absolute;
+    top: 31%;
+    left: 40%;
+    width: 620px;
+    color: white;
+    font-family: "Open Sans",sans-serif;
+    line-height: 2;
+}
+.contact-us{
+    display: flex;
+    flex-direction: column;
+    
+}
+.head-of-conact{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.prc-para{
+    color: #777;
+    width: 450px;
+    line-height: 2;
+    position: absolute;
+    bottom: -110px;
+    text-align: center;
+    left: 34%;
+}
+.middle-contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1000px;
+    margin-left: 200px;
+}
+.middle-contact-colom{
+    display: flex;
+    flex-direction: column;
+    margin-top: 140px;
+
+}
+.con-in{
+    color: #777;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+    padding-right: 560px;
+    font-family: "Open Sans",sans-serif;
+    
+}
+.con-in2{
+    color: #777;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+    padding-right: 560px;
+    padding-bottom: 150px;
+    font-family: "Open Sans",sans-serif;
+}
+.g1{
+    font-family: "Open Sans",sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+.g2{
+    color: #777;
+    font-family:"Open Sans",sans-serif;
+    margin-bottom: 8px;
+    margin-top: 16px;
+}
+.g3{
+    color: #777;
+    font-family:"Open Sans",sans-serif;
+    margin-top: 4px;
+    margin-bottom: 45px;
+}
+.g4{
+    color: #777;
+    font-family:"Open Sans",sans-serif;
+    margin-top: 2px;
+    margin-bottom: 8px;
+    
+}
+.contacts2{
+    background-color: #19c8fa;
+    color: white;
+    padding: 15px 35px 15px 35px;
+    margin-left: 850px;
+    margin-top: 15px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.end-of-project{
+    position: relative;
+    width: 1500px;
+    height: 300px;
+    margin-top: 80px;
+}
+.end-earth{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+.logo-pec2{
+    position: absolute;
+    top: 25px;
+    left: 43%;
+    width: 120px;
+
+}
+.we-are{
+    font-family: "Open Sans",sans-serif;
+    position: absolute;
+    top: 80px;
+    left: 42%;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 400;
+    font-size: 23px;
+
+}
+.hrrr{
+    position: absolute;
+    top: 130px;
+    left: 41%;
+    right: 44%;
+    color: white;
+}
